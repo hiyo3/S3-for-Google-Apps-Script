@@ -1,0 +1,1 @@
+exports.getInstance = getInstance;

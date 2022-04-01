@@ -1,0 +1,25 @@
+{
+  "name": "s3-for-google-apps-script",
+  "version": "1.0.0",
+  "description": "AWS S3 connector for Google Apps Script",
+  "scripts": {
+    "dist": "gulp dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiyo3/S3-for-Google-Apps-Script.git"
+  },
+  "author": "@hiyo3",
+  "license": "Same as the original project (https://github.com/eschultink/S3-for-Google-Apps-Script)",
+  "bugs": {
+    "url": "https://github.com/hiyo3/S3-for-Google-Apps-Script/issues"
+  },
+  "homepage": "https://github.com/hiyo3/S3-for-Google-Apps-Script#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "del": "^6.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-expose": "^0.0.7"
+  }
+}
